@@ -1,5 +1,5 @@
 # Vkmusic_download-
-Скрипт для качки музла из ВК на базе либы VKpyMusic
+Скрипт для скачивания музыки из ВК на базе библиотеки VKpyMusic
 
 ## Зависимости 
 Нужно установить либу https://github.com/issamansur/vkpymusic/tree/main\
